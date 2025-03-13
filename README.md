@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on a website that utilizes a handful of API's to provide Solana Token audits through an AI chatbot. If the audit is passes, you can set the bot to autobuy the token and autosell based on TP percentage or if the current token becomes a hazard to your portfolio (deciphered from the continuos audit scan). This chatbot can also provide you with advice on entry and exit points, futures trading suggestions, analytics, scrape social networks and chart graphs if request.   
   
 
-- 🌱 I’m currently learning Python, CSS, Javascript
+- 🌱 I’m currently learning life lessons
   
 
 - ❓ Ask me about anything related to Crypto and related technologies  
