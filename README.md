@@ -1,6 +1,6 @@
-![Profile Views](https://komarev.com/ghpvc/?username=OSINT619&color=blue)
-![banner](https://github.com/user-attachments/assets/c4f84b29-d870-4743-9171-72e4065ca011)
-![snake](https://github.com/user-attachments/assets/f0808d5e-e11d-4dd6-89d7-52d2bc57f16c) 
+### <div align="center">![Profile Views](https://komarev.com/ghpvc/?username=OSINT619&color=blue)
+### <div align="center">![banner](https://github.com/user-attachments/assets/c4f84b29-d870-4743-9171-72e4065ca011)
+### <div align="center">![snake](https://github.com/user-attachments/assets/f0808d5e-e11d-4dd6-89d7-52d2bc57f16c) 
 </div>  
   
 
