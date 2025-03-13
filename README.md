@@ -7,22 +7,22 @@
 ### <div align="center">I'm OSINT619, a full-time day trader and learning to dev on the side 👨‍💻 working remotely since 2013 🚀</div>  
   
 
-- 🔭 I’m currently working on a website that utilizes a handful of API's to provide Solana Token audits through an AI chatbot. If the audit is passes, you can set the bot to autobuy the token and autosell based on TP percentage or if the current token becomes a hazard to your portfolio (deciphered from the continuos audit scan). This chatbot can also provide you with advice on entry and exit points, futures trading suggestions, analytics, scrape social networks and chart graphs if request.   
+### <div align="center">- 🔭 I’m currently working on a website that utilizes a handful of API's to provide Solana Token audits through an AI chatbot. If the audit is passes, you can set the bot to autobuy the token and autosell based on TP percentage or if the current token becomes a hazard to your portfolio (deciphered from the continuos audit scan). This chatbot can also provide you with advice on entry and exit points, futures trading suggestions, analytics, scrape social networks and chart graphs if request.   
   
 
-- 🌱 I’m currently learning life lessons
+### <div align="center">- 🌱 I’m currently learning life lessons
   
 
-- ❓ Ask me about anything related to Crypto and related technologies  
+### <div align="center">- ❓ Ask me about anything related to Crypto and related technologies  
   
 
-- ⚡ Fun fact: I'm a professional musician, touring metal band. 
+### <div align="center">- ⚡ Fun fact: I'm a professional musician, touring metal band. 
   
 
 <br/>  
 
 
-## My growing skill set  
+### <div align="center">My growing skill set  
 <table><tr><td valign="top" width="33%">
 
 
@@ -44,7 +44,7 @@
 
 
 
-### Backend  
+### <div align="center">Backend  
 <div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -64,7 +64,7 @@
 </td><td valign="top" width="33%">
 
 
-### DevOps  
+### <div align="center">DevOps  
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
@@ -80,7 +80,7 @@
 <br/>  
 
 
-## Github Stats  
+### <div align="center">Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=OSINT619&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 
