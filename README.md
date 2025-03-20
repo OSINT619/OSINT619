@@ -1,23 +1,24 @@
 ### <div align="center">![Profile Views](https://komarev.com/ghpvc/?username=OSINT619&color=blue)
-### <div align="center">![banner](https://github.com/user-attachments/assets/409e6c58-fd7e-497d-b4ac-7171cd7e7dca)
-### <div align="center">![snake](https://github.com/user-attachments/assets/f0808d5e-e11d-4dd6-89d7-52d2bc57f16c) 
+### <div align="center">![banner](https://github.com/user-attachments/assets/1b4ac9f0-75e2-4391-97b9-bced3670285f)
+### <div align="center">![snake](https://github.com/user-attachments/assets/f0808d5e-e11d-4dd6-89d7-52d2bc57f16c)
+
 </div>  
   
 
 
-### <div align="center">I'm TheWalletHunter, a full-time day trader and learning to dev on the side 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center"> Hey! I'm WalletHunter, a full-time day trader and learning to dev on the side 👨‍💻 working remotely since 2013 🚀</div>  
   
 
-### <div align="center">- 🔭 I’m currently working on a website that utilizes a handful of API's to provide Solana Token audits through an AI chatbot. If the audit is passes, you can set the bot to autobuy the token and autosell based on TP percentage or if the current token becomes a hazard to your portfolio (deciphered from the continuos audit scan). This chatbot can also provide you with advice on entry and exit points, futures trading suggestions, analytics, scrape social networks and chart graphs if request.   
+### <div align="center"> 🔭 I’m currently working on a website that utilizes a handful of API's to provide Solana Token audits through an AI chatbot. If the audit is passes, you can set the bot to autobuy the token and autosell based on TP percentage or if the current token becomes a hazard to your portfolio (deciphered from the continuos audit scan). This chatbot can also provide you with advice on entry and exit points, futures trading suggestions, analytics, scrape social networks and chart graphs if request.   
   
 
-### <div align="center">- 🌱 I’m currently learning life lessons
+### <div align="center"> 🌱 I’m currently learning life lessons
   
 
-### <div align="center">- ❓ Ask me about anything related to Crypto and related technologies  
+### <div align="center"> ❓ Ask me about anything related to Crypto and related technologies  
   
 
-### <div align="center">- ⚡ Fun fact: I'm a professional musician, touring metal band. 
+### <div align="center"> ⚡ Fun fact: I'm a professional musician, touring metal band. 
   
 
 <br/>  
