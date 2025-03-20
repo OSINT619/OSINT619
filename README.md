@@ -1,8 +1,9 @@
 ### <div align="center">![Profile Views](https://komarev.com/ghpvc/?username=OSINT619&color=blue)
-### <div align="center">![banner](https://github.com/user-attachments/assets/c4f84b29-d870-4743-9171-72e4065ca011)
+### <div align="center">![banner](https://github.com/user-attachments/assets/409e6c58-fd7e-497d-b4ac-7171cd7e7dca)
 ### <div align="center">![snake](https://github.com/user-attachments/assets/f0808d5e-e11d-4dd6-89d7-52d2bc57f16c) 
 </div>  
   
+
 
 ### <div align="center">I'm TheWalletHunter, a full-time day trader and learning to dev on the side 👨‍💻 working remotely since 2013 🚀</div>  
   
