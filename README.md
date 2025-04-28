@@ -4,15 +4,11 @@
 
 </div>  
   
-### <div align="center"> 🚀 Hey! I'm WalletHunter, I'm on a rapid learning journey to better my future and change career paths.</div>  
+### <div align="center"> 🚀 Hey! I'm OSINT619, I'm on a never ending learning journey to better my future and change career paths.</div>  
 
-### <div align="center"> 🔭 I’m currently working on a website that utilizes a handful of API's to provide Solana Token audits through an AI chatbot. If the audit is passes, you can set the bot to autobuy the token and autosell based on TP percentage or if the current token becomes a hazard to your portfolio (deciphered from the continuos audit scan). This chatbot can also provide you with advice on entry and exit points, futures trading suggestions, analytics, scrape social networks and chart graphs if request.   
+### <div align="center"> 🔭 I've just finished a private access website that utilizes a handful of API's to provide Solana Token audits through an AI chatbot that I've trained using a custom Dataset. Once the token passes an audit, the chatbot presents you with an option to setup an autobuy/autosell, essentially converting itself into an automated cryptocurrency trading bot littered with safeguards and options. If the current token becomes a hazard to your portfolio (based on the conditions of the continuos backend audit scan), it will hault any further purchases and sell the balance (If you select that option). This chatbot can also provide you with advice on entry and exit points based on a huge number of factors. It specializes in future trading suggestions, analytics, can write in Pinecode flawlessly and it can scrape social networks for CA address leaks before launch (Presales tend to do this), and chart graphs with predictions based on historical data, if requested.   
 
-### <div align="center"> 🌱 I’m learning life lessons.
-
-### <div align="center"> ❓ Ask me about anything related to Crypto and related technologies  
-
-### <div align="center"> ⚡ Fun fact: I have full blown ADHD - it takes me a year to finish coding anything which is why I built an IDE to help speed things up. Maybe I'll post it here someday. 
+### <div align="center"> ❓ Ask me about anything related to Crypto, AI, IDE's and related technologies.
   
 <br/>  
 
