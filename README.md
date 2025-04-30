@@ -4,7 +4,21 @@
 
 </div>  
 
-### <div align="center"> [INTERACTIVE RESUME](https://v0-new-project-erfw19xyvai.vercel.app/) </div>
+### <div align="center"> <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Monoton&display=swap" rel="stylesheet">
+
+### <div align="center" style="font-family: 'Monoton', sans-serif; font-size: 24px; color: #007BFF; text-decoration: none;">
+<a href="https://v0-new-project-erfw19xyvai.vercel.app/" style="color: #007BFF; text-decoration: none;" class="monoton-regular">My Resume</a>
+</div>
+
+<style>
+.monoton-regular {
+  font-family: "Monoton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+</style> </div>
 
 ### <div align="center"> 🚀 Hey! I'm OSINT619, I'm on a never-ending learning journey to better my future and change career paths.</div>  
 
