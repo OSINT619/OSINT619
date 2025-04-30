@@ -1,27 +1,70 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Monoton&display=swap" rel="stylesheet">
+### <div align="center">![Profile Views](https://komarev.com/ghpvc/?username=OSINT619&color=blue)
+### <div align="center">![banner](https://github.com/user-attachments/assets/1b4ac9f0-75e2-4391-97b9-bced3670285f)
+### <div align="center">![snake](https://github.com/user-attachments/assets/f0808d5e-e11d-4dd6-89d7-52d2bc57f16c)
 
-### <div align="center">[Profile Views](https://komarev.com/ghpvc/?username=OSINT619&color=blue)</div>
-### <div align="center">![banner](https://github.com/user-attachments/assets/1b4ac9f0-75e2-4391-97b9-bced3670285f)</div>
-### <div align="center">![snake](https://github.com/user-attachments/assets/f0808d5e-e11d-4dd6-89d7-52d2bc57f16c)</div>
+### <div align="center"> INSERT RESUME LINK HERE.</div> 
 
-### <div align="center"> <a href="https://v0-new-project-erfw19xyvai.vercel.app/" style="font-family: 'Monoton', sans-serif; font-size: 24px; color: #007BFF; text-decoration: none;" class="monoton-regular">My Resume</a> </div>
+### <div align="center"> 🚀 Hey! I'm OSINT619, I'm on a never-ending learning journey to better my future and change career paths.</div>  
 
-### <div align="center"> 🚀 Hey! I'm OSINT619, I'm on a never-ending learning journey to better my future and change career paths.</div>
+### <div align="center"> 🔭 I've just finished a private access website that utilizes a handful of API's to provide Solana Token audits through an AI chatbot that I've trained using a custom Dataset. Once the token passes an audit, the chatbot presents you with an option to set up an autobuy/autosell, essentially converting itself into an automated cryptocurrency trading bot littered with safeguards and options. If the current token becomes a hazard to your portfolio (based on the conditions of the continuos backend audit scan), it will hault any further purchases and sell the balance (If you select that option). This chatbot can also provide you with advice on entry and exit points based on a huge number of factors. It specializes in future trading suggestions, analytics, can write in Pinecode flawlessly and it can scrape social networks for CA address leaks before launch (Presales tend to do this), and chart graphs with predictions based on historical data, if requested.   
 
-### <div align="center"> 🔭 I've just finished a private access website that utilizes a handful of API's to provide Solana Token audits through an AI chatbot that I've trained using a custom Dataset. Once the token passes an audit, the chatbot presents you with an option to set up an autobuy/autosell, essentially converting itself into an automated cryptocurrency trading bot littered with safeguards and options. If the current token becomes a hazard to your portfolio (based on the conditions of the continuos backend audit scan), it will hault any further purchases and sell the balance (If you select that option). This chatbot can also provide you with advice on entry and exit points based on a huge number of factors. It specializes in future trading suggestions, analytics, can write in Pinecode flawlessly and it can scrape social networks for CA address leaks before launch (Presales tend to do this), and chart graphs with predictions based on historical data, if requested.    </div>
+### <div align="center"> ❓ Ask me about anything related to Crypto, AI, IDE's and related technologies.
+  
+<br/>  
 
-### <div align="center"> ❓ Ask me about anything related to Crypto, AI, IDE's and related technologies.</div>
-
-<br/>
-
-### <div align="center">My growing skill set
+### <div align="center">My growing skill set  
 <table><tr><td valign="top" width="33%">
 
-### Frontend
-<div align="center">
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin:
+### Frontend  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
+<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+### <div align="center">Backend  
+<div align="center">  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+### <div align="center">DevOps  
+<div align="center">  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
+<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+### <div align="center">Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=OSINT619&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+
+<br/>  
