@@ -3,7 +3,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Monoton&display=swap" rel="stylesheet">
 
 ### <div align="center">![Profile Views](https://komarev.com/ghpvc/?username=OSINT619&color=blue)
-### <div align="center">![banner](https://github.com/user-attachments/assets/1b4ac9f0-75e2-4391-97b9-bced3670285f)
+### <div align="center">![Untitled185_20250430154814](https://github.com/user-attachments/assets/22f03e6e-cc79-4b2f-961a-6195efe7d979)
 ### <div align="center">![snake](https://github.com/user-attachments/assets/f0808d5e-e11d-4dd6-89d7-52d2bc57f16c)
 
 
