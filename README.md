@@ -1,7 +1,9 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Monoton&display=swap" rel="stylesheet">
-
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+</style>
 
 ### <div align="center">![Profile Views](https://komarev.com/ghpvc/?username=OSINT619&color=blue)
 ### <div align="center">![banner](https://github.com/user-attachments/assets/1b4ac9f0-75e2-4391-97b9-bced3670285f)
@@ -14,7 +16,7 @@
 
 ### <div align="center"> 🔭 I've just finished a private access website that utilizes a handful of API's to provide Solana Token audits through an AI chatbot that I've trained using a custom Dataset. Once the token passes an audit, the chatbot presents you with an option to set up an autobuy/autosell, essentially converting itself into an automated cryptocurrency trading bot littered with safeguards and options. If the current token becomes a hazard to your portfolio (based on the conditions of the continuos backend audit scan), it will hault any further purchases and sell the balance (If you select that option). This chatbot can also provide you with advice on entry and exit points based on a huge number of factors. It specializes in future trading suggestions, analytics, can write in Pinecode flawlessly and it can scrape social networks for CA address leaks before launch (Presales tend to do this), and chart graphs with predictions based on historical data, if requested.   
 
-### <div align="center"> ❓ Ask me about anything related to Crypto, AI, IDE's and related technologies.
+### <div align="center"> ❓ Ask me about anything related to Crypto, AI, IDE's and related technologies. ❓ 
   
 <br/>  
 
