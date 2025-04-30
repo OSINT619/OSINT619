@@ -4,7 +4,7 @@
 
 </div>  
 
-### <div align="center"> [My Resume](https://v0-new-project-erfw19xyvai.vercel.app/) </div>
+### <div align="center"> [INTERACTIVE RESUME](https://v0-new-project-erfw19xyvai.vercel.app/) </div>
 
 ### <div align="center"> 🚀 Hey! I'm OSINT619, I'm on a never-ending learning journey to better my future and change career paths.</div>  
 
