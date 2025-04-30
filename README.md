@@ -1,8 +1,14 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Monoton&display=swap" rel="stylesheet">
+
+
 ### <div align="center">![Profile Views](https://komarev.com/ghpvc/?username=OSINT619&color=blue)
 ### <div align="center">![banner](https://github.com/user-attachments/assets/1b4ac9f0-75e2-4391-97b9-bced3670285f)
 ### <div align="center">![snake](https://github.com/user-attachments/assets/f0808d5e-e11d-4dd6-89d7-52d2bc57f16c)
 
-### <div align="center"> INSERT RESUME LINK HERE.</div> 
+
+### <div align="center"><a href="https://v0-new-project-erfw19xyvai.vercel.app/" class="monoton-regular" style="font-size: 24px; color: #007BFF; text-decoration: none;">My Resume</a></div> 
 
 ### <div align="center"> 🚀 Hey! I'm OSINT619, I'm on a never-ending learning journey to better my future and change career paths.</div>  
 
