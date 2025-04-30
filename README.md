@@ -15,7 +15,7 @@
 
 ### <div align="center"> If a token poses a risk to your portfolio, based on continuous backend audit scans, the system can halt further purchases and sell your holdings if you choose that option. The chatbot also provides insights into optimal entry and exit points by analyzing a wide range of factors. It excels in generating future trading strategies, delivering advanced analytics, and writing flawless Pine Script code. Additionally, it can scrape social networks to detect contract address leaks before token launches (a common presale occurrence) and generate predictive charts based on historical data upon request.   
 
-### <div align="center"> ❓ Ask me about anything related to Crypto, AI, IDE's and related technologies. ❓ 
+### <div align="center"> ❓ Have a question? Want to colab? Ask me about anything related to Crypto, AI, and IDEs. I'm very active and check this space daily. 
   
 <br/>  
 
