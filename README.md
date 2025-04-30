@@ -13,7 +13,7 @@
 
 ### <div align="center"> 🔭 I’ve developed a private-access website that leverages multiple APIs to perform Solana token audits through an AI chatbot trained on a custom dataset. Once a token passes the audit, the chatbot offers the option to set up automated buy/sell strategies, effectively transforming into a cryptocurrency trading bot with extensive safeguards and customization options.
 
-If a token poses a risk to your portfolio—based on continuous backend audit scans—the system can halt further purchases and sell your holdings if you choose that option. The chatbot also provides insights into optimal entry and exit points by analyzing a wide range of factors. It excels in generating future trading strategies, delivering advanced analytics, and writing flawless Pine Script code. Additionally, it can scrape social networks to detect contract address leaks before token launches (a common presale occurrence) and generate predictive charts based on historical data upon request.   
+### <div align="center"> If a token poses a risk to your portfolio, based on continuous backend audit scans, the system can halt further purchases and sell your holdings if you choose that option. The chatbot also provides insights into optimal entry and exit points by analyzing a wide range of factors. It excels in generating future trading strategies, delivering advanced analytics, and writing flawless Pine Script code. Additionally, it can scrape social networks to detect contract address leaks before token launches (a common presale occurrence) and generate predictive charts based on historical data upon request.   
 
 ### <div align="center"> ❓ Ask me about anything related to Crypto, AI, IDE's and related technologies. ❓ 
   
