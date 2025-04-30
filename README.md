@@ -3,10 +3,12 @@
 ### <div align="center">![snake](https://github.com/user-attachments/assets/f0808d5e-e11d-4dd6-89d7-52d2bc57f16c)
 
 </div>  
-  
-### <div align="center"> 🚀 Hey! I'm OSINT619, I'm on a never ending learning journey to better my future and change career paths.</div>  
 
-### <div align="center"> 🔭 I've just finished a private access website that utilizes a handful of API's to provide Solana Token audits through an AI chatbot that I've trained using a custom Dataset. Once the token passes an audit, the chatbot presents you with an option to setup an autobuy/autosell, essentially converting itself into an automated cryptocurrency trading bot littered with safeguards and options. If the current token becomes a hazard to your portfolio (based on the conditions of the continuos backend audit scan), it will hault any further purchases and sell the balance (If you select that option). This chatbot can also provide you with advice on entry and exit points based on a huge number of factors. It specializes in future trading suggestions, analytics, can write in Pinecode flawlessly and it can scrape social networks for CA address leaks before launch (Presales tend to do this), and chart graphs with predictions based on historical data, if requested.   
+### <div align="center"> [My Resume] https://v0-new-project-erfw19xyvai.vercel.app/</div>
+
+### <div align="center"> 🚀 Hey! I'm OSINT619, I'm on a never-ending learning journey to better my future and change career paths.</div>  
+
+### <div align="center"> 🔭 I've just finished a private access website that utilizes a handful of API's to provide Solana Token audits through an AI chatbot that I've trained using a custom Dataset. Once the token passes an audit, the chatbot presents you with an option to set up an autobuy/autosell, essentially converting itself into an automated cryptocurrency trading bot littered with safeguards and options. If the current token becomes a hazard to your portfolio (based on the conditions of the continuos backend audit scan), it will hault any further purchases and sell the balance (If you select that option). This chatbot can also provide you with advice on entry and exit points based on a huge number of factors. It specializes in future trading suggestions, analytics, can write in Pinecode flawlessly and it can scrape social networks for CA address leaks before launch (Presales tend to do this), and chart graphs with predictions based on historical data, if requested.   
 
 ### <div align="center"> ❓ Ask me about anything related to Crypto, AI, IDE's and related technologies.
   
